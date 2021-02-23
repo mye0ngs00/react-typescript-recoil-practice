@@ -9,7 +9,7 @@
 ## How to use this
 `$ git clone [this project]`   
 `$ cd react-typescript-recoil-practice`   
-`... Create '.env' files ... `
+`... Create '.env' files ... `   
 `$ yarn && yarn start`   
 
 ## References
